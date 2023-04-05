@@ -1,0 +1,54 @@
+{
+	"Racism.": {
+		"pReason": "prejudice, discrimination, or antagonism.",
+		"pName": "Racism."
+	},
+	"Chat Spam.": {
+		"pReason": "Spamming messages in text chat.",
+		"pName": "Chat Spam."
+	},
+	"NLR.": {
+		"pReason": "Returning to the same RP situation after dying.",
+		"pName": "NLR."
+	},
+	"RDM.": {
+		"pReason": "Killing random players for no reason.",
+		"pName": "RDM."
+	},
+	"Advertising.": {
+		"pReason": "Advertising other Garry’s Mod communities on any platform (server, forums, Teamspeak, Discord, Steam Group).",
+		"pName": "Advertising."
+	},
+	"NITRP.": {
+		"pReason": "No intention to roleplay.",
+		"pName": "NITRP."
+	},
+	"RDA.": {
+		"pReason": "Randomly arresting players.",
+		"pName": "RDA."
+	},
+	"Mass RDM.": {
+		"pReason": "Randomly killing either three or more people.",
+		"pName": "Mass RDM."
+	},
+	"Metagaming.": {
+		"pReason": "using information from OOC (Out Of Character) sources to influence roleplay.",
+		"pName": "Metagaming."
+	},
+	"Mic-Spam.": {
+		"pReason": "Constant screaming into microphone / soundboard spam (loudly, annoyingly).",
+		"pName": "Mic-Spam."
+	},
+	"Inappropriate Name.": {
+		"pReason": "Impersonating players, staff, lore characters. Inappropriate or provocative names.",
+		"pName": "Inappropriate Name."
+	},
+	"FailRP.": {
+		"pReason": "Breaking Roleplay.",
+		"pName": "FailRP."
+	},
+	"Bullying / harassment.": {
+		"pReason": "player, staff or regiment disrespect.",
+		"pName": "Bullying / harassment."
+	}
+}

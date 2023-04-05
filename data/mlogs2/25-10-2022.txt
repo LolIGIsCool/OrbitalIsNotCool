@@ -1,0 +1,27 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 25-10-2022
+============================================
+
+[06:15:13] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:15:13] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[06:15:25] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:18:45] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:18:45] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[06:18:58] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:23:33] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_357 )
+[06:23:36] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[06:25:26] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:25:26] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[06:25:37] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:39:59] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:39:59] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[06:40:11] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[06:40:40] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Comlink ( comlink_swep )
+[06:40:42] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a #GMOD_Fists ( weapon_fists )

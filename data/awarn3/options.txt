@@ -1,0 +1,80 @@
+{
+	"awarn_joinmessageclient": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_joinmessageclient",
+		"description": "If enabled, players who join will see if they have any warnings on the server."
+	},
+	"awarn_logging": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_logging",
+		"description": "If enabled, AWarn will log actions to a data file."
+	},
+	"awarn_decayrate": {
+		"type": "integer",
+		"value": 1440.0,
+		"name": "awarn_decayrate",
+		"description": "How often (in minutes) an active warning decays for a player."
+	},
+	"awarn_server_name": {
+		"type": "string",
+		"value": "Orbital Servers | ImperialRP",
+		"name": "awarn_server_name",
+		"description": "Server name for multi-server support"
+	},
+	"awarn_reasonrequired": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_reasonrequired",
+		"description": "If enabled, a warning must be provided when warning a player."
+	},
+	"awarn_server_language": {
+		"type": "string",
+		"value": "EN-US",
+		"name": "awarn_server_language",
+		"description": "Language all server messages will be in."
+	},
+	"awarn_chat_prefix": {
+		"type": "string",
+		"value": "!warn",
+		"name": "awarn_chat_prefix",
+		"description": "Chat command to warn players and open the warning menu."
+	},
+	"awarn_kick": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_kick",
+		"description": "Allow AWarn to kick players."
+	},
+	"awarn_allow_warn_admins": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_allow_warn_admins",
+		"description": "If enabled, admins will be able to warn other admins."
+	},
+	"awarn_decay": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_decay",
+		"description": "If enabled, active warnings will decay over time."
+	},
+	"awarn_joinmessageadmin": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_joinmessageadmin",
+		"description": "If enabled, admins will get a message in chat when a player with warnings joins the server."
+	},
+	"awarn_ban": {
+		"type": "boolean",
+		"value": true,
+		"name": "awarn_ban",
+		"description": "Allow AWarn to ban players"
+	},
+	"awarn_reset_after_ban": {
+		"type": "boolean",
+		"value": false,
+		"name": "awarn_reset_after_ban",
+		"description": "If enabled, a player's active warnings will be reset to 0 after being banned by awarn. Recommend disabled if using multiple levels of banning."
+	}
+}

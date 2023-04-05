@@ -1,0 +1,1 @@
+hook.Remove( "PlayerCanHearPlayersVoice", "Maximum Range" )

@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Zeros Lua Libary"
+	"author_name" "Author Name"
+	"info" "{"title":"Zeros Lua Libary","type":"ServerContent","tags":["fun","roleplay"],"ignore":[]}"
+}

@@ -1,0 +1,5 @@
+cache
+bin
+*.json
+!.gitignore
+!*.lua

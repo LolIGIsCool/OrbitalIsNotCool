@@ -1,0 +1,57 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 19-10-2022
+============================================
+
+[07:55:18] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[08:00:37] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Kiosk ( mcasino_kiosk ) ( models/mcasino/kiosk/kiosk.mdl )
+[08:00:43] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Defon Machine ( sh_decon_machine ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl )
+[08:00:47] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Big Booking Panel ( big_booking_panel ) ( models/hunter/plates/plate3x3.mdl )
+[08:00:51] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Booking Station ( booking_station ) ( models/lordtrilobite/starwars/isd/imp_console_medium02.mdl )
+[08:56:18] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[08:56:18] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[08:56:18] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[08:56:18] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[08:56:23] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[08:56:23] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[08:56:23] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[08:59:42] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Kiosk ( mcasino_kiosk ) ( models/mcasino/kiosk/kiosk.mdl )
+[08:59:50] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Defon Machine ( sh_decon_machine ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl )
+[08:59:55] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Witcher Gateway ( witcher_gateway ) ( models/hunter/blocks/cube1x2x025.mdl )
+[09:27:04] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:27:04] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:27:05] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:27:05] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[09:27:14] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:27:14] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:27:14] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:37:00] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:37:00] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:37:00] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:37:00] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[09:37:06] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:37:06] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:37:06] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:40:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:40:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:40:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:40:27] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[09:40:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:40:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:40:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:51:10] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:51:10] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:51:10] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[09:51:10] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[09:51:16] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[09:51:16] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[09:51:16] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[10:03:21] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Kiosk ( mcasino_kiosk ) ( models/mcasino/kiosk/kiosk.mdl )
+[10:04:19] Brono ( STEAM_0:1:128027100 ) ( Empire ) spawned a Booking Station ( booking_station ) ( models/lordtrilobite/starwars/isd/imp_console_medium02.mdl )
+[10:04:54] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a #GMOD_Fists ( weapon_fists )

@@ -1,0 +1,117 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 20-10-2022
+============================================
+
+[03:10:25] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[03:10:25] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[03:10:25] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[03:10:25] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[03:10:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[03:10:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[03:10:33] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[03:11:41] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Arrest Baton ( arrest_stick )
+[03:18:09] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:18:09] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[03:18:23] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:20:16] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:20:16] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[03:20:31] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:20:48] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_357 )
+[03:20:48] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[03:21:50] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_rpg )
+[03:21:51] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_smg1 )
+[03:26:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[03:26:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[03:26:27] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[03:26:28] Brono ( STEAM_0:1:128027100 ) ( Connecting ) connected to the server
+[03:26:36] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a E-11 ( rw_sw_e11 )
+[03:26:36] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Grenade ( weapon_bactanade )
+[03:26:36] Brono ( STEAM_0:1:128027100 ) ( Empire ) picked up a Bacta Injector ( weapon_bactainjector )
+[03:27:08] Brono ( STEAM_0:1:128027100 ) ( Empire ) damaged glitch ( STEAM_0:0:600114 ) ( Empire ) for 30 damage with a E-11 ( rw_sw_e11 )
+[03:33:39] glitch ( STEAM_0:0:600114 ) ( Empire ) damaged Brono ( STEAM_0:1:128027100 ) ( Empire ) for 12 damage with a weapon ( weapon_pistol )
+[03:33:39] glitch ( STEAM_0:0:600114 ) ( Empire ) damaged Brono ( STEAM_0:1:128027100 ) ( Empire ) for 12 damage with a weapon ( weapon_pistol )
+[03:33:39] glitch ( STEAM_0:0:600114 ) ( Empire ) damaged Brono ( STEAM_0:1:128027100 ) ( Empire ) for 12 damage with a weapon ( weapon_pistol )
+[03:34:25] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:34:25] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[03:34:41] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:34:44] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[03:35:03] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_crowbar )
+[03:36:19] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Arrest Baton ( arrest_stick )
+[03:36:31] Bot01 ( BOT ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:36:32] Bot01 ( BOT ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[03:42:41] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a #GMOD_ToolGun ( gmod_tool )
+[03:42:41] glitch ( STEAM_0:0:600114 ) ( Empire ) used camera
+[03:48:29] glitch ( STEAM_0:0:600114 ) ( Empire ) used camera
+[03:48:44] glitch ( STEAM_0:0:600114 ) ( Empire ) disconnected from the server
+[03:48:44] Bot01 ( BOT ) ( Empire ) disconnected from the server
+[07:12:51] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:12:51] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:12:57] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:13:04] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[07:18:03] glitch ( STEAM_0:0:600114 ) ( Empire ) disconnected from the server
+[07:18:25] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:18:25] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:18:30] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:20:30] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[07:23:33] glitch ( STEAM_0:0:600114 ) ( Empire ) disconnected from the server
+[07:23:59] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:23:59] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:24:05] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:25:14] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_357 )
+[07:25:15] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_shotgun )
+[07:25:15] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_smg1 )
+[07:26:58] glitch ( STEAM_0:0:600114 ) ( Empire ) disconnected from the server
+[07:27:15] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:27:15] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:27:15] glitch ( STEAM_0:0:600114 ) ( Connecting ) disconnected from the server
+[07:27:52] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:27:52] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:27:52] glitch ( STEAM_0:0:600114 ) ( Connecting ) disconnected from the server
+[07:29:29] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:29:29] glitch ( STEAM_0:0:600114 ) ( Empire ) connected to the server
+[07:29:34] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:32:09] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[07:36:58] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:36:58] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:37:03] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:39:49] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[07:40:36] glitch ( STEAM_0:0:600114 ) ( Empire ) committed suicide
+[07:43:12] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:43:12] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:43:16] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:43:25] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[07:44:55] glitch ( STEAM_0:0:600114 ) ( Empire ) committed suicide
+[07:47:07] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:47:07] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:47:12] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:49:27] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_357 )
+[07:49:52] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:49:52] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:49:57] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:49:59] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_bugbait )
+[07:55:37] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:55:37] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:55:42] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:57:51] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:57:51] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[07:57:56] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[07:59:19] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a weapon ( weapon_pistol )
+[08:03:04] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[08:03:04] glitch ( STEAM_0:0:600114 ) ( Connecting ) connected to the server
+[08:03:10] glitch ( STEAM_0:0:600114 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[08:32:36] glitch ( STEAM_0:0:600114 ) ( Empire ) disconnected from the server
+[14:23:40] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[14:23:40] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Connecting ) connected to the server
+[14:23:47] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Empire ) picked up a Training E-11 (no scope) ( rw_sw_trd_e11_noscope )
+[14:31:06] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Empire ) : g
+[14:31:08] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Empire ) : fgf
+[14:31:38] [OS]KeyZ ( STEAM_0:1:535793387 ) ( Empire ) : /name TK-2123 "Cody"
+[14:31:39] TK-2123 "Cody" ( STEAM_0:1:535793387 ) ( Empire ) : g
+[14:32:52] The world damaged TK-2123 "Cody" ( STEAM_0:1:535793387 ) ( Empire ) for 3 damage

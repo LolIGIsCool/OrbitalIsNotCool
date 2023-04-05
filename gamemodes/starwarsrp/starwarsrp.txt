@@ -1,0 +1,6 @@
+"starwarsrp"
+{
+	"base"		"sandbox"
+	"title"		"Starwars Roleplay"
+	"author"	"Kirby#2015"
+}
